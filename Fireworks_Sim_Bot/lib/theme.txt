@@ -1,0 +1,80 @@
+# STATUS
+# Status messages (1 file added to sketch, errors, etc)
+status.notice.fgcolor = #000000
+status.notice.bgcolor = #818b95
+status.error.fgcolor = #ffffff
+status.error.bgcolor = #662000
+status.edit.fgcolor = #000000
+status.edit.bgcolor = #cc9900
+status.font = processing.sans,plain,14
+
+# TABS
+# Settings for the tab area at the top.
+header.bgcolor = #000000
+#header.hide.image = false # in preferences.txt
+header.hide.color = #0E1B25
+header.text.selected.color = #2e2e2e
+header.text.unselected.color = #e3e3e3
+header.text.font = processing.sans,plain,14
+header.tab.selected.color = #ff8023
+header.tab.unselected.color = #2e2e2e
+
+# CONSOLE
+# The font is handled by preferences, so its size/etc are modifiable.
+console.color = #2e2e2e
+console.output.color = #e3e3e3
+console.error.color = #ff8023
+
+# TOOLBAR BUTTONS
+buttons.bgcolor = #000000
+#buttons.hide.image = true # in preferences.txt
+buttons.hide.color = #ff8023
+buttons.bgimage = false
+
+# TOOLBAR BUTTON TEXT
+buttons.status.font = processing.sans,bold,13
+buttons.status.color = #ff8023
+
+# MODE SELECTOR
+mode.button.font = processing.sans,bold,13
+# outline color of the mode button
+mode.button.color = #ff8023
+
+# LINE STATUS
+# The editor line number status bar at the bottom of the screen
+linestatus.color = #e3e3e3
+linestatus.bgcolor = #29333d
+linestatus.font = processing.sans,plain,13
+linestatus.height  = 20
+
+
+# EDITOR - DETAILS
+
+# foreground and background colors
+editor.fgcolor = #fcfcfc
+editor.bgcolor = #2e2e2e
+
+# highlight for the current line
+editor.linehighlight.color=#171717
+# highlight for the current line
+editor.linehighlight=true
+
+# caret blinking and caret color
+editor.caret.color = #ff8023
+
+# color to be used for background when 'external editor' enabled
+editor.external.bgcolor = #dcc8c8
+
+# selection color
+editor.selection.color = #000000
+
+# area that's not in use by the text (replaced with tildes)
+editor.invalid.style = #ffdc48,bold
+
+# little pooties at the end of lines that show where they finish
+editor.eolmarkers = false
+editor.eolmarkers.color = #999999
+
+# bracket/brace highlighting
+editor.brackethighlight = true
+editor.brackethighlight.color = #ff8023
