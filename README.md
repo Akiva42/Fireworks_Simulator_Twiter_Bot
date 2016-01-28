@@ -1,7 +1,7 @@
 # Fireworks_Simulator_Twiter_Bot
 A Twitter bot that creates tiny fireworks simulations.
 
-![long exposure photo](FireWorks_Sim_Bot/twiter_bot_grid/export.gif)
+![output example](Fireworks_Sim_Bot/twiter_bot_gird/export.gif)
 
 This bot was created by Akiva Krauthamer as an IACD project. You can view the bot in action on Twiter @Fireworks_Sim.
 
